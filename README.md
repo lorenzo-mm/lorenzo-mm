@@ -1,39 +1,41 @@
   <h1 align="center">Hi! I'm Lorenzo Muñoz, Front-end developer. 👋</h1>
 <h3 align="center">A passionate frontend developer from Madrid</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a 
-    href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmuñoz/" 
-    target="blank">
-      <img 
-        align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-        alt="https://www.linkedin.com/in/lorenzo-mmuñoz/" 
-        height="30" 
-        width="40" 
-      />
-  </a>
-  <a 
-     href="https://twitter.com/lorendev_" 
-     target="blank">
-      <img 
-        align="center" 
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  
-        alt="lorendev_" 
-        height="30" 
-        width="40" 
-       />
-   </a>
-</p>  
+<div justify-content="space-between"
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <a 
+      href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmuñoz/" 
+      target="blank">
+        <img 
+          align="center" 
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+          alt="https://www.linkedin.com/in/lorenzo-mmuñoz/" 
+          height="30" 
+          width="40" 
+        />
+    </a>
+    <a 
+       href="https://twitter.com/lorendev_" 
+       target="blank">
+        <img 
+          align="center" 
+          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  
+          alt="lorendev_" 
+          height="30" 
+          width="40" 
+         />
+     </a>
+  </p>  
 
-<div align="right">
-  <a href="https://github.com/lorenzo-mm">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact&langs_count=7&theme=merko"/>
+  <div align="right">
+    <a href="https://github.com/lorenzo-mm">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact&langs_count=7&theme=merko"/>
+  </div>
 </div>
   
-<p align="center" padding="25px">
+<p align="center" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" />
   </a> 
