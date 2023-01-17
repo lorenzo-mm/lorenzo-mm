@@ -34,8 +34,8 @@
 </div>
   
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy" background="black">
-    <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm"  background="black" />
   </a> 
 </p>
   
