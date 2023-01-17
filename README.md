@@ -88,6 +88,5 @@
   ![Snake animation](https://github.com/lorenzo-mm/lorenzo-mm/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div align="center">
-  🔭 Estoy trabajando como front-end - 🌱 Estudiando y mejorando en JavaScript  -😄 Pronouns: Loren/Lorensio
+  🔭 Estoy trabajando como front-end - 🌱 Estudiando y mejorando en JavaScript  - 😄 Pronouns: Loren/Lorensio - 
 </div>
-- 
