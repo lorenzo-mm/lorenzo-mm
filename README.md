@@ -92,9 +92,9 @@
   </a>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   ![Snake animation](https://github.com/lorenzo-mm/lorenzo-mm/blob/main/.github/workflows/main.yml)
-</div>
+</div> -->
 <div align="center">
   🔭 Estoy trabajando como front-end - 🌱 Estudiando y mejorando en JavaScript  - 😄 Pronouns: Loren/Lorensio - 
 </div>
