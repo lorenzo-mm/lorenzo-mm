@@ -7,7 +7,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" /></a> </p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
