@@ -3,7 +3,7 @@
 
 <div justify-content="space-between"
   <h3 align="left">Connect with me:</h3>
-  <p align="left">
+  <p align="">
     <a 
       href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmuñoz/" 
       target="blank">
@@ -28,7 +28,7 @@
      </a>
   </p>  
 
-  <div align="right">
+  <div align="">
     <a href="https://github.com/lorenzo-mm">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact&langs_count=7&theme=merko"/>
