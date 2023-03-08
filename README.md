@@ -27,13 +27,6 @@
          />
      </a>
   </p>  
-
-  <div align="center">
-    <a href="https://github.com/lorenzo-mm">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact&langs_count=7&theme=merko"/>
-  </div>
-</div>
   
 <p align="center" >
   <a href="https://github.com/ryo-ma/github-profile-trophy">
