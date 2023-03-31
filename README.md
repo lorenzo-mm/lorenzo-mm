@@ -42,6 +42,7 @@
   <img height="170" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact" />
 </div>
 
+---
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
