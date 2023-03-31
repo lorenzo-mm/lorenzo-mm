@@ -37,7 +37,7 @@
   
 ---
 
-<div align='center'>
+<div align='center' width='100%'>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&count_private=true&include_all_commits=true" />
   <img height="170" align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact" />
 </div>
