@@ -1,7 +1,5 @@
 <h1 align="center">Hey! I'm Lorenzo Muñoz, Front-end developer. 👋</h1>
 
----
-  
 <h3 align="center">A passionate frontend developer from Madrid</h3>
 
 <div
