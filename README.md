@@ -29,7 +29,7 @@
      </a>
   </p>  
   
-<p align="center" left='2px' >
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" />
   </a> 
