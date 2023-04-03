@@ -6,7 +6,7 @@
   <h3 align="center" >Connect with me:</h3>
   <p align="center">
     <a 
-      href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmuñoz/" 
+      href="https://www.linkedin.com/in/lorenzo-mmuñoz/" 
       target="blank">
         <img 
           align="center" 
