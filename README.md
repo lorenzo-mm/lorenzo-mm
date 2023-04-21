@@ -3,8 +3,8 @@
 <h3 align='left'>I'm Lorenzo Muñoz, Front-end developer 💻 from Madrid! 🌇</h3>
 
 <div
-  <h3 align="center">Connect with me:</h3>
-  <p align="center">
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
     <a 
       href="https://www.linkedin.com/in/lorenzo-mmuñoz/" 
       target="blank">
