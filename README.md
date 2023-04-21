@@ -1,8 +1,12 @@
 # Hello there! :wave:
 
 <div>
-  ## 💫 About Me:
-  I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
+  <h3>
+    ## 💫 About Me:
+  </h3>
+  <h2>
+    I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
+  </h2>
 </div>
 
 ## 🌐 Socials:
