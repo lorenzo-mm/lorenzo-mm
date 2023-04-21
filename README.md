@@ -1,8 +1,6 @@
 # Hello there! :wave:
 
-<h3>
 ## 💫 About Me:
-</h3>
 I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
 
 ## 🌐 Socials:
