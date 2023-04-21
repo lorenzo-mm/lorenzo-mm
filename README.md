@@ -1,9 +1,9 @@
-<h1 align="center">Hello there! 👋</h1>
+<h1 align="left">Hello there! 👋</h1>
 
-<h3 align='center'>I'm Lorenzo Muñoz, Front-end developer 💻 from Madrid! 🌇</h3>
+<h3 align='left'>I'm Lorenzo Muñoz, Front-end developer 💻 from Madrid! 🌇</h3>
 
 <div
-  <h3 align="center" >Connect with me:</h3>
+  <h3 align="center">Connect with me:</h3>
   <p align="center">
     <a 
       href="https://www.linkedin.com/in/lorenzo-mmuñoz/" 
@@ -93,10 +93,3 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" padding="2px" /> 
   </a>
 </p>
-
-<!-- <div align="center">
-  ![Snake animation](https://github.com/lorenzo-mm/lorenzo-mm/blob/main/.github/workflows/main.yml)
-</div> -->
-<div align="center">
-  🔭 Estoy trabajando como front-end - 🌱 Estudiando y mejorando en JavaScript
-</div>
