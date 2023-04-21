@@ -1,6 +1,6 @@
 # Hello there! :wave:
 ## I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
-## 🌐 Socials:
+### 🌐 Socials:
 <a href="cepo_mm@hotmail.com">
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
 </a>
@@ -45,9 +45,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-<div>
-<a>![](https://github-profile-trophy.vercel.app/?username=lorenzo-mm&theme=matrix&no-frame=false&no-bg=true&margin-w=4)</a>
-</div>
+![](https://github-profile-trophy.vercel.app/?username=lorenzo-mm&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/LorensioDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
