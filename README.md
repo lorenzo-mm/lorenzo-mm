@@ -31,6 +31,8 @@
   
 ---
 
+# 📊 GitHub Stats:
+
 <div align='center' width='100%'>
   <img height="170" align="center" 
        src="https://github-readme-stats-lorenzo-mm.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)" />
@@ -46,6 +48,8 @@
 </p>
 
 ---
+
+# 💻 Tech Stack:
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
