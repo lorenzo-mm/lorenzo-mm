@@ -38,7 +38,8 @@
 ---
 
 <div align='center' width='100%'>
-  <img height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&count_private=true&include_all_commits=true" />
+  <img height="170" align="center" 
+       src="https://github-readme-stats-lorenzo-mm.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)" />
   <img height="170" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact" />
 </div>
 
