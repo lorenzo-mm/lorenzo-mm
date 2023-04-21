@@ -1,7 +1,7 @@
 # Hello there! :wave:
 
 ### 💫 About Me:
-##I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
+## I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
 
 ## 🌐 Socials:
 <a href="cepo_mm@hotmail.com">
