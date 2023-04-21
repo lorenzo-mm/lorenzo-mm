@@ -5,7 +5,7 @@ I'm Lorenzo Muñoz, Front-end developer :computer: from Madrid! :city_sunset:
 
 
 ## 🌐 Socials:
-<a href="manuelsosapia@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+<a href="cepo_mm@hotmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmu%C3%B1oz/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/LorensioDev) 
 
 # 💻 Tech Stack:
