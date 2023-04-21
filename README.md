@@ -29,12 +29,6 @@
      </a>
   </p>  
   
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" />
-  </a> 
-</p>
-  
 ---
 
 <div align='center' width='100%'>
@@ -42,6 +36,14 @@
        src="https://github-readme-stats-lorenzo-mm.vercel.app/api?username=lorenzo-mm&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)" />
   <img height="170" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&layout=compact" />
 </div>
+
+---
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lorenzo-mm" alt="lorenzo-mm" />
+  </a> 
+</p>
 
 ---
 
