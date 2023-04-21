@@ -1,7 +1,5 @@
 # Hello there! :wave:
-
 ## I'm **Lorenzo Muñoz**, Front-end developer :computer: from **Madrid**! :city_sunset:
-
 ## 🌐 Socials:
 <a href="cepo_mm@hotmail.com">
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
