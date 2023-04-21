@@ -8,7 +8,8 @@
   <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="[https://twitter.com/](https://twitter.com/https://twitter.com/LorensioDev)">
-  <img src="![image](https://user-images.githubusercontent.com/94995682/233608541-7c6297a5-2901-49a5-9b30-dab73a797270.png)" alt="Twitter" />
+  <img src="![icons8-twitter-cuadrado-50](https://user-images.githubusercontent.com/94995682/233608963-93695069-8e83-4d0c-9b47-95e1d18120fd.png)
+" alt="Twitter" />
 </a>
 
 # 💻 Tech Stack:
