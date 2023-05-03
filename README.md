@@ -4,7 +4,7 @@
 <a href="cepo_mm@hotmail.com">
   <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lorenzo-mmu%C3%B1oz/">
+<a href="https://www.linkedin.com/in/lorenzo-mmu%C3%B1oz/">
   <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
 </a>
 <a href="[https://twitter.com/](https://twitter.com/https://twitter.com/LorensioDev)">
