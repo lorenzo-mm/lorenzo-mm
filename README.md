@@ -1,59 +1,34 @@
-# Hello there! :wave:
-## I'm **Lorenzo Muñoz**, Front-end developer from **Madrid**! :city_sunset:
-### 🌐 Socials:
-<a href="mailto:cepo_mm@hotmail.com">
-  <img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail" />
-</a>
-<a href="https://www.linkedin.com/in/lorenzo-mmu%C3%B1oz/">
-  <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/Lorendev_">
-  <img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter" />
-</a>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io) 
+<h1 align="center">Hi 👋, I'm Lorenzo Muñoz</h1>
+<h3 align="center">A passionate Frontend Developer from Spain</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=CSS3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT%20-%23F7DF1E.svg?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/REACTJS-%2320232a.svg?style=flat&logo=React&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/NEXTJS-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
-![Chakra](https://img.shields.io/badge/CHAKRA-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-![Netlify](https://img.shields.io/badge/NETLIFY-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7)
-![Google Cloud](https://img.shields.io/badge/GOOGLE%20CLOUD-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)     
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)    
-![MongoDB](https://img.shields.io/badge/MONGODB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MYSQL-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+<p align="left"> <a href="https://twitter.com/lorendev_" target="blank"><img src="https://img.shields.io/twitter/follow/lorendev_?logo=twitter&style=for-the-badge" alt="lorendev_"  </p>
 
-![Sketch](https://img.shields.io/badge/SKETCH-FFB387?style=flat&logo=sketch&logoColor=black)
-![Figma](https://img.shields.io/badge/FIGMA-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/CANVA-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+- 🔭 I’m currently working on **My personal projects**
 
-![Arduino](https://img.shields.io/badge/-ARDUINO-00979D?style=flat&logo=Arduino&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) 
-![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=flat&logo=postman&logoColor=white)
+- 🌱 I’m currently learning **backend**
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lorenzo-mm&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=lorenzo-mm&theme=blue-green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 💬 Ask me about **ReactJS**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lorenzo-mm&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+- 📫 How to reach me **cepo_mm@hotmail.com**
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/LorensioDev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+- ⚡ Fun fact **I am Funny**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Lorendev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lorendev_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lorenzo-mmu%C3%B1oz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=lorenzo-mm&icon=9&color=3)](https://visitcount.itsvg.in)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzo-mm&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="lorenzo-mm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lorenzo-mm&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" alt="lorenzo-mm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzo-mm&theme=blue-green&hide_border=true" alt="lorenzo-mm" /></p>
