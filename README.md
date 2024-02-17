@@ -1,4 +1,4 @@
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=in-jun&theme=high-contrast&height=250" alt="GitHub Activity Graph">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=lorenzo-mm&theme=high-contrast&height=250" alt="GitHub Activity Graph">
 
 <h1 align="center">Hi 👋, I'm Lorenzo Muñoz</h1>
 <h3 align="center">A passionate Frontend Developer from Spain</h3>
