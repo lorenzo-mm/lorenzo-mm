@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **cepo_mm@hotmail.com**
 
-- ⚡ Fun fact **I am Loki of Asgard**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Lorendev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lorendev_" height="30" width="40" /></a>
