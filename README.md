@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://lorenzomunoz.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhello.a53ebbb0.webp&w=640&q=75">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo-mm&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo-mm" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzo-mm&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzo-mm" />
 
 <p align="left"> <a href="https://twitter.com/lorendev_" target="blank"><img src="https://img.shields.io/twitter/follow/lorendev_?logo=twitter&style=for-the-badge" alt="lorendev_"  </p>
 
